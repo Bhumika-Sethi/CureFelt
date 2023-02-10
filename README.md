@@ -20,6 +20,8 @@ Our app serves as a user feedback system for self-management and maintaining goo
 
 ### Brief problem statement :
 >The Web Application “CureFelt” is a mental health monitoring app that focuses on personalizing user needs when it comes to the mental health front. The primary premise of the app is in-depth monitoring of mental health of the user through detailed quizzes and positive reinforcement of the mind through achievements timeline, memes, games and personalized blogs etc. The possibility of an AR-based friend/companion in this aspect is also going to be experimented. 
+
+
 ![Intro](https://user-images.githubusercontent.com/67055739/218040276-09041903-65ae-47d7-9051-1ced94608663.png)
 
 ### Motivation for choosing the idea: 
